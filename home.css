@@ -23,7 +23,6 @@
 body {
     font-family: 'Vazirmatn', sans-serif;
     color: var(--text-color);
-    background: var(--background-color);
     min-height: 100vh;
     position: relative;
     overflow-x: hidden;
@@ -802,3 +801,4 @@ footer {
     }
 
 }
+
